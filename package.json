@@ -1,0 +1,24 @@
+{
+  "name": "kenkaneki",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "node .": "node start index.js"
+  },
+  "author": "Azaxan",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "ascii-table": "^0.0.9",
+    "axios": "^0.26.0",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.6.0",
+    "ffmpeg-static": "^4.4.1",
+    "moment": "^2.29.1",
+    "opusscript": "^0.0.8",
+    "path": "^0.12.7",
+    "yaml": "^1.10.2"
+  }
+}
